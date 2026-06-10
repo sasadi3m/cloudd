@@ -1,6 +1,6 @@
 name = "cf-worker"
 main = "_worker.js"
-compatibility_date = "2026-06-9"
+compatibility_date = "2026-06-09"
 
 [vars]
 uuid = "56d22e7d-e7a7-41a0-9acd-837b8b6d32ec"
